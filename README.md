@@ -1,4 +1,4 @@
-# 🌍 Impact Story Pro
+# 🌍 Environmental Calculator
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -29,18 +29,9 @@ Turn complexity into clarity. Impact Story Pro is a fully functional web applica
 -   **🧮 Powerful Formula Engine**: Write custom formulas using standard math expressions. Variable names are automatically generated from your input labels.
 -   **🚀 Real-Time Dashboard**: Results are calculated instantly as you enter data, providing immediate feedback.
 -   **💾 Persistent Templates**: Your calculator designs are automatically saved to your browser's local storage.
-
+-   [**➡️ View the Live Demo Here**](https://environmental-calculator.vercel.app/)
 ---
 
-## 📸 Screenshots
-
-**
-> *The intuitive drag-and-drop builder allows for flexible creation of inputs and outputs.*
-
-**
-> *The data input form is generated dynamically, and the live dashboard provides instant results.*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +58,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/impact-story-pro.git](https://github.com/your-username/impact-story-pro.git)
+    git clone [https://github.com/imdevraj069/environmental-calculator.git](https://github.com/imdevraj069/environmental-calculator.git)
     cd impact-story-pro
     ```
 
